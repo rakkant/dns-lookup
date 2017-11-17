@@ -3,7 +3,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
  
 
-public class RefactorMain {
+public class Main {
     
  
     public void performNSLookup() {
